@@ -8,4 +8,3 @@
 - `data/`: orders, company docs (RAG, caching), receipt.png
 - `genai/`: A02-A07 (Amazon Bedrock)
 - `agents/`: B02-B07 (Strands Agents, AgentCore)
-- `kiro/brightcart-api`: B08-B09 (Kiro)
