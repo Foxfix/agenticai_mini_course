@@ -1,0 +1,15 @@
+[
+  {
+    "name": "create_refund",
+    "description": "Create a refund for a BrightCart order. Use only after checking the order and the return policy.",
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "order_id": {"type": "string", "description": "The order number, for example 1042"},
+        "amount": {"type": "number", "description": "Refund amount in USD"},
+        "reason": {"type": "string", "description": "Short reason for the refund"}
+      },
+      "required": ["order_id", "amount", "reason"]
+    }
+  }
+]
