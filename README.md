@@ -1,3 +1,10 @@
+
+## 🎬 YouTube Playlist
+
+[![Watch Playlist](https://img.youtube.com/vi/kWIDGFcNzg4/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLVamya74tsY4)
+
+▶️ [Watch the full playlist on YouTube](https://www.youtube.com/playlist?list=PLVamya74tsY4)
+
 # BrightCart: AWS AI examples
 
     python3 -m venv .venv && source .venv/bin/activate
